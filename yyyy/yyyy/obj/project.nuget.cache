@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zr5wNAuN3BZzEU2uaz/c8ErUzERF9PysoLR9tTfKoO8xOZ9p9FtbApKKkuhrIcV0rJY4Djm7NDjPTMwLFQ76NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\yyyy\\yyyy\\yyyy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.1.1\\materialdesigncolors.2.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.7.1\\materialdesignthemes.4.7.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
